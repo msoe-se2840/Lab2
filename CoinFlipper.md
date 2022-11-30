@@ -187,13 +187,11 @@ ALSO, include a text file report containing:
 - Summary - a reflection of what you learned in this lab 
 - Suggestions - a list of suggestions for improvement and/or what you enjoyed about this lab
 
-Make sure your JavaScript code is commented thoroughly.  Create a zip file of all files and submit to Canvas before the due date.
-
 NOTE: do NOT include any WebStorm specific files (e.g. your .idea directory).  Only submit the files as specified.
 
 NOTE: If/when using resources from material outside what was presented in class (e.g., Google search, Stack Overflow, etc.) document the resource used in your submission.  Include exact URLs for web pages where appropriate.
 
-Create a zip file of all files and submit before the due date.
+Make sure all of your updated files are committed and pushed to the repository before the due date. I will pull down all of the repos at that time and that is what I will be grading.
 
 ## Grading Criteria
 
