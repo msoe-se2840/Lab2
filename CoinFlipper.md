@@ -202,5 +202,5 @@ Make sure all of your updated files are committed and pushed to the repository b
     - (5 Points) Suggestions - a list of suggestions for improvement and/or what you enjoyed about this lab
 - (5 Points) Correct Submission - Followed submission instructions (e.g. IDE project files are not submitted)
 - (10 Points) Code Structure - Correct code/file structure - implementation of functions as described
-- (25 Points) Functionality - Correct implementation of required functionality
+- (40 Points) Functionality - Correct implementation of required functionality
 - (20 Points) Error Checking - Comprehensive error checking for "bad" input (0, negative, or alphabetic input values must not be allowed)
